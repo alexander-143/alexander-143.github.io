@@ -1,0 +1,36 @@
+body{
+    background-color: whitesmoke;
+}
+
+main{
+    
+    align-items: center;
+    text-align: center;
+}
+
+table{
+    margin: auto;
+}
+
+table tr{
+    border-color: black;
+}
+
+table tr td{
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.tableTitle{
+    background-color: darkslategray;
+    color: whitesmoke
+}
+
+.codeText{
+    font-family: monospace;
+    background-color: darkcyan;
+}
+
+.tableElement{
+    background-color: lightslategray;
+}
